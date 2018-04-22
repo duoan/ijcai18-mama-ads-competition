@@ -2,6 +2,15 @@
 
 [比赛介绍](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231647)
 
+### 依赖包
+sklearn、lightgbm、catboost、pandas、numpy、matplotlib、pickle、h5py、tqdm
+
+### 运行环境
+jupyter + python3.5
+
+### 运行准备
+创建目录：```mkdir input && mkdir cache && mkdir feats && mkdir rests```
+
 ### 数据预处理：
 添加时间维度特征合并数据后存为pkl格式。[源码](_1_1_pre_process_dfal.ipynb)
 
