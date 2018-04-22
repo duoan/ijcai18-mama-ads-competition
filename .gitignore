@@ -1,0 +1,14 @@
+__pycache__
+.ipynb_checkpoints
+input
+cache
+feats
+rests
+catboost_training.json
+learn/
+learn_error.tsv
+meta.tsv
+test/
+test_error.tsv
+time_left.tsv
+test.pkl
